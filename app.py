@@ -59,61 +59,61 @@ def anticorruption_analysis():
 def anticorruption_analysis():
     output = {
         "probabilidad":0.91,
-        "tipo corrupción 1": {
+        "Soborno": {
             "probabilidad": 0.89,
             "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
         },
-        "tipo corrupción 2": {
+        "Desvio de Recursos": {
             "probabilidad": 0.25,
             "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
         },
-        "tipo corrupción 3": {
+        "Abuso de funciones": {
             "probabilidad": 0.85,
             "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
         },
-        "tipo corrupción 4": {
+        "Colusión": {
             "probabilidad": 0.51,
             "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
         },
-        "tipo corrupción 5": {
+        "Conspiración para cometer actos de corrupción": {
             "probabilidad": 0.23,
             "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
         },
-        "tipo corrupción 6": {
+        "Tráfico de influencia": {
             "probabilidad": 0.60,
             "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
         },
-        "tipo corrupción 7": {
+        "Enriquecimiento Oculto": {
             "probabilidad": 0.90,
             "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
         },
-        "tipo corrupción 8": {
+        "Obstrucción de Justicia": {
             "probabilidad": 0.95,
             "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
         },
-        "tipo corrupción 9": {
+        "Uso ilegal de información falsa o confidencial": {
             "probabilidad": 0.91,
             "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
         },
-        "tipo corrupción 10": {
+        "Nepotismo": {
             "probabilidad": 0.85,
             "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
