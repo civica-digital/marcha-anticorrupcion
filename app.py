@@ -52,7 +52,7 @@ def anticorruption_analysis():
                 "sustantivo_3"
             ]
     }
-    return response = app.response_class( response=json.dumps(output), mimetype='application/json' )
+    return app.response_class( response=json.dumps(output), mimetype='application/json' )
 
 
 @app.route('/analyze_context', methods=['GET'])
@@ -120,4 +120,7 @@ def anticorruption_analysis():
             "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
         },
     }
-    return response = app.response_class( response=json.dumps(output), mimetype='application/json' )
+    return app.response_class( response=json.dumps(output), mimetype='application/json' )
+
+if __name__ == '__main__':
+    app.run(debug=True, ip=0.0.0.0, port=5000)
