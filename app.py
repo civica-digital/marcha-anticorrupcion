@@ -66,13 +66,55 @@ def anticorruption_analysis():
             "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
         },
         "tipo corrupción 2": {
-            "probabilidad": 0.75,
+            "probabilidad": 0.25,
             "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
         },
         "tipo corrupción 3": {
-            "probabilidad": 0.75,
+            "probabilidad": 0.85,
+            "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
+        },
+        "tipo corrupción 4": {
+            "probabilidad": 0.51,
+            "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
+        },
+        "tipo corrupción 5": {
+            "probabilidad": 0.23,
+            "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
+        },
+        "tipo corrupción 6": {
+            "probabilidad": 0.60,
+            "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
+        },
+        "tipo corrupción 7": {
+            "probabilidad": 0.90,
+            "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
+        },
+        "tipo corrupción 8": {
+            "probabilidad": 0.95,
+            "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
+        },
+        "tipo corrupción 9": {
+            "probabilidad": 0.91,
+            "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
+            "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
+        },
+        "tipo corrupción 10": {
+            "probabilidad": 0.85,
             "indicador_1": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_2": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}},
             "indicador_3": {"tipo":"kpi", "datos":{"valor":131, "unidades":"unidad"}}
