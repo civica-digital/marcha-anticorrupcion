@@ -56,7 +56,7 @@ def anticorruption_analysis():
 
 
 @app.route('/analyze_context', methods=['GET'])
-def anticorruption_analysis():
+def analyze_context():
     output = {
         "probabilidad":0.91,
         "Soborno": {
